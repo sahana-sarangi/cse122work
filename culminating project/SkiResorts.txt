@@ -1,0 +1,9 @@
+whistler blackcomb (1) Diverse terrain (2) Open Fall (3) Luxury (4) Crowded (5) Good snowfall (6) Canada (7) Variable conditions
+crystal mountain (1) Intermediate level (2) Open Fall (3) Luxury (4) Crowded (5) Good snowfall (6) Washington (7) Okay conditions
+mount baker (1) Beginner-friendly (2) Open regular season (3) Budget (4) Less crowd (5) Good snowfall (6) Washington (7) Variable conditions
+mount hood meadows (1) Diverse terrain (2) Open Fall (3) Luxury (4) Crowded (5) Mid snowfall (6) Oregon (7) Variable conditions
+stevens pass (1) Intermediate level (2) Open regular season (3) Budget (4) Crowded (5) Good snowfall (6) Washington (7) Okay conditions
+timberline lodge (1) Beginner-friendly (2) Open all year (3) Luxury (4) Okay crowd (5) Okay snowfall (6) Oregon (7) Variable conditions
+alpental (1) Advanced terrain (2) Open regular season (3) Budget (4) Crowded (5) Good snowfall (6) Washington (7) Okay conditions
+mount hood skibowl (1) Diverse terrain (2) Open regular season (3) Luxury (4) Less crowd (5) Sad snowfall (6) Oregon (7) Good conditions
+summit at snoqualmie (1) Beginner-friendly (2) Open regular season (3) Budget (4) Crowded (5) Good snowfall (6) Washington (7) Okay conditions
